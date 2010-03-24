@@ -14,6 +14,11 @@ Scalable Vector Graphics (SVGs) are extremely useful and are appreciated.
 
 ## Licensing
 
-Please license any art-work uploaded to the repository under a
-[Creative Commons License](http://creativecommons.org/choose/).
+Please license any art-work uploaded to the repository under one of the
+following licenses:
+
+* [CC by](http://creativecommons.org/licenses/by/3.0)
+* [CC by-sa](http://creativecommons.org/licenses/by-sa/3.0)
+* [GPL-2](http://www.gnu.org/licenses/gpl-2.0.html)
+* Or any GPL-2 compatible license
 
