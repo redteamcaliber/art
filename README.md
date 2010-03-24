@@ -12,3 +12,8 @@ Please save any images in their original format, such as `.psd` used by
 
 Scalable Vector Graphics (SVGs) are extremely useful and are appreciated.
 
+## Licensing
+
+Please license any art-work uploaded to the repository under a
+[Creative Commons License](http://creativecommons.org/choose/).
+
